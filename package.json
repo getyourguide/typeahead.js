@@ -6,10 +6,10 @@
     "autocomplete"
   ],
   "homepage": "http://twitter.github.com/typeahead.js",
-  "bugs": "https://github.com/twitter/typeahead.js/issues",
+  "bugs": "https://github.com/getyourguide/typeahead.js/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twitter/typeahead.js.git"
+    "url": "https://github.com/getyourguide/typeahead.js.git"
   },
   "author": {
     "name": "Twitter, Inc.",
@@ -63,6 +63,6 @@
   "scripts": {
     "test": "./node_modules/karma/bin/karma start --single-run --browsers PhantomJS"
   },
-  "version": "0.11.1",
+  "version": "0.11.2",
   "main": "dist/typeahead.bundle.js"
 }
